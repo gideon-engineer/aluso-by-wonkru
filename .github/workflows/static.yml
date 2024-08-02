@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)file:///C:/Users/b/Desktop/CODE/INDEX.HTML#contact-us -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aluso Foundation</title>
+    <link rel="stylesheet" href="./Aluso Foundation w_files/styles.css">
+    <style>
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+        
+        }
+
+        nav ul li {
+            margin-right: 10px;
+            position: relative;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            padding: 10px;
+            display: block;
+        }
+
+        nav ul li ul {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #e6e6fa;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li:hover ul {
+            display: block;
+        }
+
+        nav ul li ul li {
+            width: 200px;
+        }
+        
+        .footer-columns {
+            display: flex;
+            justify-content: space-around;
+            text-align: left;
+            padding: 20px;
+            background-color: #98ff98;
+        }
+        .footer-column {
+            width: 30%;
+        }
+        .footer-column h3 {
+            margin-top: 0;
+        }
+        .footer-column p, .footer-column ul, .footer-column form {
+            margin: 10px 0;
+        }
+        .footer-column ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .footer-column ul li {
+            margin-bottom: 5px;
+        }
+        .footer-bottom {
+            text-align: center;
+            padding: 10px;
+            background-color: #e6e6fa;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+      
+        <a href="file:///C:/Users/b/Desktop/CODE/index.html"><img src="./Aluso Foundation w_files/ALUSOLOGO.jpg" alt="Logo" style="width: 100px; height: auto; border-radius: 50%; background: none;"></a>Aluso Foundation
+        <p>Empowering Girls and Women</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#home">Home</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#about-us">About Us</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-program">Our Program</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#menstrual-health-education">Menstrual Health Education</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#get-involved">Get Involved</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#resources">Resources</a></li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#blog">Blog</a></li>
+            <li>
+                <a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#other">Other</a>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#background-information">Background Information</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#project-rationale">Project Rationale</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#mission-vision">Mission &amp; Vision</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#project-description">Project Description</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#pictorials">Pictorials</a></li>
+                </ul>
+            </li>
+            <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#contact-us">Contact Us</a></li>
+           
+        </ul>
+    </nav>
+    
+
+    <main>
+        <section class="container" id="home">
+            <h2>Home</h2>
+            <p>Welcome to Aluso Foundation. Empowering girls and women through comprehensive menstrual health and hygiene initiatives.</p>
+        </section>
+        <section class="container" id="about-us">
+            <h2>About Us</h2>
+            <p>At Aluso Foundation, we believe in empowering girls and women through comprehensive menstrual health and hygiene initiatives. Our mission is to create a world where every female, regardless of socio-cultural context, can embrace menstruation as a natural and healthy part of life.</p>
+        </section>
+        <section class="container" id="background-information">
+            <h2>Background Information</h2>
+            <p>Male and female development stages are similar except for distinct changes, which occur in the
+adolescent stage. 
+.</p>
+            <!-- Add the rest of the background information here -->
+        </section>
+        <section class="container" id="our-program">
+            <h2>Our Program</h2>
+            <p>Our program aims to provide comprehensive support to girls and women in the community through various initiatives including menstrual health education, distribution of sanitary products, and psychological support.</p>
+        </section>
+        <section class="container" id="menstrual-health-education">
+            <h2>Menstrual Health Education</h2>
+            <p>We offer educational sessions to empower girls with knowledge about menstruation, sexual health, and related topics. Our goal is to dispel myths, promote healthy choices, and support girls during their menstrual cycle.</p>
+        </section>
+        <section class="container" id="get-involved">
+            <h2>Get Involved</h2>
+            <p>Join us in our mission to end period poverty and empower girls and women. Find out how you can volunteer, donate, or support our initiatives in various ways.</p>
+        </section>
+        <section class="container" id="resources">
+            <h2>Resources</h2>
+            <p>Access a variety of resources related to menstrual health, hygiene practices, and educational materials to support our mission and initiatives.</p>
+        </section>
+        <section class="container" id="blog">
+            <h2>Blog</h2>
+            <p>Read our latest articles, stories, and updates about our work, menstrual health education, and empowerment initiatives.</p>
+        </section>
+        
+        <section class="container" id="project-rationale">
+            <h2>Project Rationale</h2>
+            <p>Menstruation, the monthly discharge of blood and mucosal tissues from the inner lining of the uterus, is a natural process that signifies a woman’s reproductive health. Yet, for many girls, it’s far more than biology; it’s a complex experience that intersects with culture, poverty, and societal norms...</p>
+            <!-- Add the detailed project rationale content here -->
+        </section>
+        <section class="container" id="mission-vision">
+            <h2>Mission &amp; Vision</h2>
+            <h3>Mission</h3>
+            <p>To end period Poverty.</p>
+            <h3>Vision</h3>
+            <p>To help improve menstrual Hygiene practices.</p>
+            <h3>Objectives</h3>
+            <ul>
+                <li>To create knowledge and awareness on the importance of menstrual hygiene.</li>
+                <li>To help reduce stigma and stress related to menstruation.</li>
+                <li>To end Period Poverty.</li>
+                <li>To help understand challenges related to menstrual hygiene on girl child.</li>
+                <li>To provide adequate education to community members of the importance of a girl child.</li>
+                <li>Improve school attendance by the girls even during their menstrual moments.</li>
+            </ul>
+        </section>
+        
+        <section class="container" id="pictorials">
+            <h2>Pictorials</h2>
+            <p>Check out our gallery of photos from our events, programs, and initiatives. Witness the impact we’re making in the community through visual stories.</p>
+            <!-- Add photo gallery or links to images here -->
+        </section>
+        <section class="container" id="contact-us">
+            <h2>Contact Us</h2>
+            <form id="contact-form">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required="">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required="">
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" required=""></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Send Message</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-columns">
+            <div class="footer-column">
+                <h3>Our Solutions</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#menstrual-health-education">Menstrual Health Management</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-program">Health and Life Skills Education</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#social-behavior-change-communication">Social Behavior and Change Communication</a></li>
+                </ul>
+                <h3>Our Programs</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#macro-level-work">Macro Level Work</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#local-level-work">Local Level Work</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#digital-support">Real-time Digital Support</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#sustainable-development-goals">Sustainable Development Goals</a></li>
+                </ul>
+                <h3>Take Action</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#support-our-work">Support Our Work</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#blog">News and Blog</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#request-a-speaker">Request a Speaker</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>About Us</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#mission-vision">Mission and Vision</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#contact-us">Contact Us</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-people">Our People</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#financials">Financials</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-partners">Our Partners</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-history">Our History</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#faq">FAQ</a></li>
+                </ul>
+                <h3>Our Impact</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-research">Our Research</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#our-stories">Our Stories</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+               
+                <h3>Get in Touch</h3>
+                <ul>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#P.O%20Box%2015653-00503">P.O Box 15653-00503</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#Narok%20South,%20Kenya">Narok South, Kenya</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#+254%20701424188">+254 701424188</a></li>
+                    <li><a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#info@alusofundation.co.ke">info@alusofundation.co.ke</a></li>
+                </ul>
+                <h3>Sign up for news and updates.</h3>
+                <form>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required="">
+                    <button type="submit">Sign Up</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2024 Aluso Foundation. <a href="file:///C:/Users/b/Desktop/CODE/INDEX.HTML#">Privacy policy</a>.</p>
+            <p>© 2024 Powered by Wonkru.</p>
+        </div>
+    </footer>
+    
+
+
+
+</body></html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aluso Foundation</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <script src="scripts.js" defer></script> <!-- Link to your JS file -->
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/ALUSOLOGO.jpg" alt="Aluso Foundation Logo">
+        </div>
+        <h1>Aluso Foundation</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about-us">About Us</a></li>
+                <li><a href="#our-program">Our Program</a></li>
+                <li><a href="#menstrual-health-education">Menstrual Health Education</a></li>
+                <li><a href="#get-involved">Get Involved</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="https://external-support-link.com" target="_blank" rel="noopener noreferrer">Support Our Work</a></li>
+                <li><a href="#contact-us">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="container" id="home">
+            <h2>Home</h2>
+            <p>Welcome to Aluso Foundation. Empowering girls and women through 
+                comprehensive menstrual health and hygiene initiatives.</p>
+        </section>
+
+        <section class="container" id="about-us">
+            <h2>About Us</h2>
+            <p>At Aluso Foundation, we believe in empowering girls and women through comprehensive menstrual health and hygiene initiatives. Our mission is to create a world where every female, regardless of socio-cultural context, can embrace menstruation as a natural and healthy part of life.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="about-us-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="about-us-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>About Us</h2>
+                <p>More detailed information about Aluso Foundation...</p>
+            </div>
+        </div>
+
+        <section class="container" id="background-information">
+            <h2>Background Information</h2>
+            <p>Male and female development stages are similar except for distinct changes, which occur in the adolescent stage.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="background-info-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="background-info-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Background Information</h2>
+                <p>More detailed background information...</p>
+            </div>
+        </div>
+
+        <section class="container" id="our-program">
+            <h2>Our Program</h2>
+            <p>Our program aims to provide comprehensive support to girls and women in the community through various initiatives including menstrual health education, distribution of sanitary products, and psychological support.</p>
+            <h2>Mission & Vision</h2>
+            <h2>Mission</h2>
+            <p>To end period poverty.</p>
+            <h2>Vision</h2>
+            <p>To help improve menstrual hygiene practices.</p>
+            <h2>Objectives</h2>
+            <ul>
+                <li>To create knowledge and awareness on the importance of menstrual hygiene.</li>
+                <li>To help reduce stigma and stress related to menstruation.</li>
+                <li>To end period poverty.</li>
+                <li>To help understand challenges related to menstrual hygiene on girl child.</li>
+                <li>To provide adequate education to community members on the importance of a girl child.</li>
+                <li>Improve school attendance by the girls even during their menstrual moments.</li>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="our-program-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="our-program-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Our Program</h2>
+                <p>More detailed information about our program...</p>
+            </div>
+        </div>
+
+        <section class="container" id="menstrual-health-education">
+            <h2>Menstrual Health Education</h2>
+            <p>We offer educational sessions to empower girls with knowledge about menstruation, sexual health, and related topics. Our goal is to dispel myths, promote healthy choices, and support girls during their menstrual cycle.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="menstrual-health-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="menstrual-health-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Menstrual Health Education</h2>
+                <p>More detailed information about menstrual health education...</p>
+            </div>
+        </div>
+
+        <section class="container" id="get-involved">
+            <h2>Get Involved</h2>
+            <p>Join us in our mission to end period poverty and empower girls and women. Find out how you can volunteer, donate, or support our initiatives in various ways.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="get-involved-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="get-involved-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Get Involved</h2>
+                <p>More detailed information about how to get involved...</p>
+            </div>
+        </div>
+
+        <section class="container" id="resources">
+            <h2>Resources</h2>
+            <p>Access a variety of resources related to menstrual health, hygiene practices, and educational materials to support our mission and initiatives.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="resources-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="resources-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Resources</h2>
+                <p>More detailed information about available resources...</p>
+            </div>
+        </div>
+
+        <section class="container" id="blog">
+            <h2>Blog</h2>
+            <p>Read our latest articles, stories, and updates about our work, menstrual health education, and empowerment initiatives.</p>
+            <!-- Modal Trigger -->
+            <button class="modal-trigger" data-modal="blog-modal">Learn More</button>
+        </section>
+
+        <!-- Modal Content -->
+        <div class="modal" id="blog-modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <h2>Blog</h2>
+                <p>More detailed information about our blog...</p>
+            </div>
+        
+
+        <section class="container" id="contact-us">
+            <h2>Contact Us</h2>
+            <form id="contact-form">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" required></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Send Message</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <footer>
+            <div class="footer-columns">
+                <div class="footer-column">
+                    <h3>Our Solutions</h3>
+                    <ul>
+                        <li><a href="#menstrual-health-education">Menstrual Health Management</a></li>
+                        <li><a href="#our-program">Health and Life Skills Education</a></li>
+                        <li><a href="#social-behavior-change-communication">Social Behavior and Change Communication</a></li>
+                    </ul>
+                    <h3>Our Programs</h3>
+                    <ul>
+                        <li><a href="#macro-level-work">Macro Level Work</a></li>
+                        <li><a href="#local-level-work">Local Level Work</a></li>
+                        <li><a href="#digital-support">Real-time Digital Support</a></li>
+                       
+                    </ul>
+                    <h3>Take Action</h3>
+                    <ul>
+                        <li><a href="https://external-support-link.com" target="_blank" rel="noopener noreferrer">Support Our Work</a></li>
+                        <li><a href="#blog">News and Blog</a></li>
+                        <li><a href="#request-a-speaker">Request a Speaker</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>About Us</h3>
+                    <ul>
+                        <li><a href="#mission-vision">Mission and Vision</a></li>
+                        <li><a href="#contact-us">Contact Us</a></li>
+                        <li><a href="#our-people">Our People</a></li>
+                        <li><a href="#financials">Financials</a></li>
+                        <li><a href="#our-partners">Our Partners</a></li>
+                        <li><a href="#our-history">Our History</a></li>
+                        <li><a href="#faq">FAQ</a></li>
+                    </ul>
+                    <h3>Our Impact</h3>
+                    <ul>
+                        <li><a href="#our-research">Our Research</a></li>
+                        <li><a href="#our-stories">Our Stories</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                   
+                    <h3>Get in Touch</h3>
+                    <ul>
+                        <li><a href="#P.O Box 15653-00503">P.O Box 15653-00503</a></li>
+                        <li><a href="#Narok South, Kenya">Narok South, Kenya</a></li>
+                        <li><a href="#+254 701424188">+254 701424188</a></li>
+                        <li><a href="#info@alusofundation.co.ke">info@alusofundation.co.ke</a></li>
+                    </ul>
+                   
+                </div>
+            </div>
+            <h3>Sign up for news and updates.</h3>
+                <form>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required>
+                    <button type="submit">Sign Up</button>
+                </form>
+            <div class="footer-bottom">
+                
+        <p>&copy; 2024 Aluso Foundation. <a href="#">Privacy policy</a>.</p>
+        <p>&copy; 2024 Powered by Wonkru.</p>
+    </footer>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
